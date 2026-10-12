@@ -16,7 +16,7 @@ Uso:
 
 Requisitos:
   - ccusage instalado globalmente (npm install -g ccusage)
-  - fpdf2 dentro de uma venv (já criada em /home/dedi/pyenvs/llm-report)
+  - fpdf2 dentro de uma venv (já criada em $HOME/pyenvs/llm-report)
 """
 from __future__ import annotations
 
