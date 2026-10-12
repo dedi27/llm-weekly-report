@@ -1,0 +1,8 @@
+# PDFs gerados pelo script (output local)
+reports/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
